@@ -177,4 +177,5 @@ public class UserModel implements Serializable {
     public int hashCode() {
         return Objects.hash(userId);
     }
+
 }
